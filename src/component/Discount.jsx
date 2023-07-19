@@ -26,7 +26,7 @@ const Discount = () => {
         <div className="flex items-center justify-between mb-4">
           <h1 className="text-md lg:text-2xl font-bold">Sedang Diskon</h1>
           <Link
-            to="/batiklaras/diskon"
+            to="/diskon"
             className="cursor-pointer text-gray-600 hover:text-gray-900 inline-flex items-center text-sm md:mb-2 lg:mb-0"
           >
             Lihat Semua

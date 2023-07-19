@@ -14,7 +14,7 @@ const Navbar = () => {
     <div className="w-full bg-white sticky top-0 z-50 border-b shadow-md">
       <div className="max-w-screen-xl mx-auto p-4">
         <div className="flex items-center justify-between relative">
-          <Link to="/batiklaras">
+          <Link to="/">
             <img src={logo} alt="logo" className="h-8 lg:h-10 cursor-pointer" />
           </Link>
           <img
